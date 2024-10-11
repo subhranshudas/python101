@@ -102,3 +102,9 @@ python101/
 - Regularly update your project dependencies with Poetry
 
 Happy coding!
+
+## TODO
+
+1. testing
+2. ruff
+3. env variables
